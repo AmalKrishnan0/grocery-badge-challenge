@@ -1,0 +1,93 @@
+{
+    "list":[
+        {
+            "Serialnumber":"1",
+            "Name":"Apple",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Note":"Red Apple"
+        },
+        {
+           
+            "Serialnumber":"2",
+            "Name":"Oranges",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Note":"Riped" 
+        },
+        {
+            
+            "Serialnumber":"3",
+            "Name":"Tomato",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Note":"Organic"
+        },
+        {
+            
+            "Serialnumber":"4",
+            "Name":"Carrot",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Note":"Organic"
+        },
+        {
+            
+            "Serialnumber":"5",
+            "Name":"Mango",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Department":"Fruits",
+            "Note":"Mulgoba Mango"
+        },
+        {
+            
+            "Serialnumber":"6",
+            "Name":"Milk",
+            "Quantity":"2",
+            "Unit":"L",
+            "Department":"Dairy",
+            "Note":"Fermentated Milk"
+        },
+        {
+            
+            "Serialnumber":"7",
+            "Name":"Rice",
+            "Quantity":"10",
+            "Unit":"kg",
+            "Department":"Cereals",
+            "Note":"Matta"
+        },
+        {
+            
+            "Serialnumber":"8",
+            "Name":"Eggs",
+            "Quantity":"2",
+            "Unit":"Dozen",
+            "Department":"Poultry",
+            "Note":"Good"
+        },
+        {
+            
+            "Serialnumber":"9",
+            "Name":"Juice",
+            "Quantity":"1",
+            "Unit":"L",
+            "Department":"Beverages",
+            "Note":"Mango juice"
+        },
+        {
+            
+            "Serialnumber":"10",
+            "Name":"Wheat",
+            "Quantity":"4",
+            "Unit":"kg",
+            "Department":"Cereals",
+            "Note":"Good"
+        }
+    ]
+}

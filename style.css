@@ -1,0 +1,36 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #list{
+    margin-top: 5%;
+    text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color:white;
+  }
+  
+  #top{
+    color:skyblue;
+    text-decoration: underline;
+  }
+  
+  #btn{
+  color: white;
+  background-color:blueviolet;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  width: 7%;
+  height: 9%;
+  }
+  
+  th,td{
+    padding: 15px 20px;
+    margin-left: 40%;
+    border: 3px solid #000;
+    color:black;
+    background-color: gray;
+  }
+  #listof{
+    margin-left: 28%;
+    align-items: center;
+  }
+      
